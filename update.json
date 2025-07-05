@@ -1,10 +1,10 @@
 {
-      "datetime": 20250510,
-      "filename": "xiaomi.eu_GARNET_OS2.0.7.0.VNRCNXM_15.zip",
+      "datetime": 20250704,
+      "filename": "xiaomi.eu_GARNET_OS2.0.202.0.VNRCNXM_15.zip",
       "romtype": "unofficial",
       "codename": "garnet",
-      "size": 5905580032,
-      "url": "https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/HyperOS-STABLE-RELEASES/HyperOS2.0/xiaomi.eu_GARNET_OS2.0.7.0.VNRCNXM_15.zip/download",
-      "version": "2.0.7.0.VNRCNXM",
-      "changelog": "<b>HyperOS 2.0</b>\nUnofficial by <i>xiaomi.eu</i>\n\n<b>Update android security</b>\n2025-05-10"
+      "size": 7290706984.96,
+      "url": "https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/HyperOS-STABLE-RELEASES/HyperOS2.0/xiaomi.eu_GARNET_OS2.0.202.0.VNRCNXM_15.zip/download",
+      "version": "OS2.0.202.0.VNRCNXM_15.zip",
+      "changelog": "<b>HyperOS 2.0</b>\nUnofficial by <i>xiaomi.eu</i>\n\n<b>Update android security</b>\n2025-07-4"
 }
