@@ -6,5 +6,6 @@
       "size": 5553803262.072470589,
       "url": "https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/HyperOS-STABLE-RELEASES/HyperOS2.0/xiaomi.eu_GARNET_OS2.0.204.0.VNRCNXM_15.zip/download",
       "version": "OS2.0.204.0.VNRCNXM",
+      "os": "2.0",
       "changelog": "<b>HyperOS 2.0</b>\nUnofficial by <i>xiaomi.eu</i>\n\n<b>Android version</b>\n15 <i>Vanilla Ice Cream</i>\n\n<b>Update android security</b>\n2025-07-16"
 }
